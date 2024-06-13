@@ -100,7 +100,7 @@ This is a car rental web application built using the Flask framework. it allow u
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/timileyin42/Wise_Wheel_App.git
+    https://github.com/NegrosG/Wise_Wheel_App.git
     cd Wise_Wheel_App
     ```
 
@@ -169,4 +169,5 @@ pytest
 
 
 # AUTHORS
-Akanmu Ibrahim Timileyin | akanmuibro@gmail.com 
+Akanmu Ibrahim Timileyin | akanmuibro@gmail.com
+Onifade Martins Abolade | negrosmartins@gmail.com
